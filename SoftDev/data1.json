@@ -1,0 +1,9 @@
+{
+    "name": "Sebastian",
+    "age": 23,
+    "city": "Seattle, WA",
+    "interests": [
+        "Magic the Gathering, DnD, Movies, Video Games, Cars"
+    ],
+    "is_student": true
+}
